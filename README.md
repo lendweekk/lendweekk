@@ -9,11 +9,24 @@
 <h1 align="center">Hi 👋, I'm Yevhenii Pohorielov</h1>
 <h2 align="center">Junior Frontend Developer</h2>
 
+<br>
+<h2>Social Networks</h2>
+
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+
+[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
+[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
+
+[1]: https://twitter.com/lendweekk
+[2]: https://www.linkedin.com/in/mosfazli/](https://www.linkedin.com/in/yevhenii-pohorielov-8239a0248/
+[3]: https://www.instagram.com/yevhenii_pohorielov/?hl=ru
+[4]: https://telegram.me/MosFazli](https://t.me/lendweekk
+
 - EMAIL: lendweekk@gmail.com
-
-- LINKEDIN: https://www.linkedin.com/in/yevhenii-pohorielov-8239a0248/
-
-- TELEGRAM: https://t.me/lendweekk
+<br>
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
