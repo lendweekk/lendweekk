@@ -7,8 +7,6 @@
 
 - LINKEDIN: https://www.linkedin.com/in/yevhenii-pohorielov-8239a0248/
 
-- GITHUB: https://github.com/lendweekk
-
 - TELEGRAM: https://t.me/lendweekk
 
 
