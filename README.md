@@ -10,6 +10,7 @@
 <h2 align="center">Junior Frontend Developer</h2>
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
+
 <br>
 <h2>Social Networks</h2>
 
