@@ -9,9 +9,8 @@
 <h1 align="center">Hi 👋, I'm Yevhenii Pohorielov</h1>
 <h2 align="center">Junior Frontend Developer</h2>
 
-<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
-
 <br>
+<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 <h2>Social Networks</h2>
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
