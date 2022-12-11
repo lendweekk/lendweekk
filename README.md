@@ -25,7 +25,6 @@
 [3]: https://www.instagram.com/yevhenii_pohorielov/?hl=ru
 [4]: https://telegram.me/MosFazli](https://t.me/lendweekk
 
-- EMAIL: lendweekk@gmail.com
 <br>
 <br>
 
