@@ -9,6 +9,8 @@
 <h1 align="center">Hi 👋, I'm Yevhenii Pohorielov</h1>
 <h2 align="center">Junior Frontend Developer</h2>
 
+![My CV]([https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient](https://drive.google.com/file/d/17Ztjmw7WFdPtG8Rf8QJVrRWXpAH7XCk_/view?usp=share_link))
+
 <br>
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 <h2>Social Networks</h2>
