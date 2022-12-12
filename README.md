@@ -25,7 +25,7 @@ Check out my resume and download it at the link below!
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [1]: https://twitter.com/lendweekk
-[2]: https://www.linkedin.com/in/mosfazli/](https://www.linkedin.com/in/yevhenii-pohorielov-8239a0248/
+[2]: https://www.linkedin.com/in/yevhenii-pohorielov-8239a0248/
 [3]: https://www.instagram.com/yevhenii_pohorielov/?hl=ru
 [4]: https://t.me/lendweekk
 
