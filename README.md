@@ -11,7 +11,7 @@
 
 Check out my resume and download it at the link below!
 
-[**My CV**](https://drive.google.com/file/d/154ViBCwbcNNblsF9Sjdk9cCmyt1BiNod/view?usp=share_link)
+[**My CV**](https://lendweekk.github.io/rsschool-cv/)
 
 <br>
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
