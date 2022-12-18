@@ -7,7 +7,7 @@
  </div>
 
 <h1 align="center">Hi 👋, I'm Yevhenii Pohorielov</h1>
-<h2 align="center">Junior Frontend Developer</h2>
+<h2 align="center">Frontend Developer</h2>
 
 Check out my resume and download it at the link below!
 
