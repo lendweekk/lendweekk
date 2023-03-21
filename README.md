@@ -35,8 +35,24 @@ Check out my resume and download it at the link below!
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-</p>
+<div align="center">
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+  ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
+  ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+  ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
+  ![Scss](https://img.shields.io/badge/scss-20232A?style=for-the-badge&logo=sass)
+  ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
+  ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
+  ![Babel](https://img.shields.io/badge/babel-20232A?style=for-the-badge&logo=babel)
+  ![Webpack](https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack)
+  ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
+  ![Gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
+  ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
+  ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
